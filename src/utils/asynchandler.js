@@ -19,4 +19,4 @@ try {
 
 
 
-export default asynchandler;
+export  {asynchandler};
